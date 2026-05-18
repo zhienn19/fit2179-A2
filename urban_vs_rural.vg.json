@@ -4,7 +4,7 @@
   "width": "container",
   "height": 400,
   "data": {
-    "url": "./vegalite/urban area vs rural area in selangor/Dengue_Hotspots_Selangor_V2.csv" 
+    "url": "Dengue_Hotspots_Selangor_V2.csv" 
   },
   "transform": [
     {

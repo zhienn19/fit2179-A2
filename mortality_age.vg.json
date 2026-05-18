@@ -4,7 +4,7 @@
   "width": "container",
   "height": 400,
   "data": {
-    "url": "./vegalite/mortality/dengue_demographics_malaysia.csv" 
+    "url": "dengue_demographics_malaysia.csv" 
   },
 
   "mark": {

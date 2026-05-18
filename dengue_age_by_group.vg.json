@@ -4,7 +4,7 @@
   "width": "container",
   "height": 400,
   "data": {
-    "url": "./vegalite/reported dengue case by age group from 2018-2021/dengue_age.csv" 
+    "url": "dengue_age.csv" 
   },
   "mark": "bar",
   "encoding": {

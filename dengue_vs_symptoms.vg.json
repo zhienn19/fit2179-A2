@@ -9,7 +9,7 @@
 
     "title": "Most Common Symptoms in Dengue Patients",
     "data": {
-        "url": "./vegalite/dengue vs symptoms/dengue_symptoms_extended.csv"
+        "url": "dengue_symptoms_extended.csv"
     },
     "mark": "bar",
     "encoding": {

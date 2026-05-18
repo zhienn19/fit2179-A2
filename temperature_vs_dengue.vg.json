@@ -4,7 +4,7 @@
   "width": "container",
   "height": 400,
   "data": {
-    "url": "./vegalite/Climate/Dengue_Climate_Malaysia_2018_2021.csv" 
+    "url": "Dengue_Climate_Malaysia_2018_2021.csv" 
   },
   "mark": {"type": "point", "filled": true, "size": 50},
   "encoding": {
